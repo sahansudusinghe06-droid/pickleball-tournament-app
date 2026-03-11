@@ -1,0 +1,214 @@
+{
+    "courts": {
+        "Court 1": {
+            "group": "Group A",
+            "teams": [
+                "Team A",
+                "Team B",
+                "Team C",
+                "Team D"
+            ],
+            "matches": [
+                {
+                    "team1": "Team A",
+                    "team2": "Team B",
+                    "score1": 8,
+                    "score2": 7
+                },
+                {
+                    "team1": "Team C",
+                    "team2": "Team D",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team A",
+                    "team2": "Team C",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team B",
+                    "team2": "Team D",
+                    "score1": "",
+                    "score2": ""
+                }
+            ]
+        },
+        "Court 2": {
+            "group": "Group B",
+            "teams": [
+                "Team E",
+                "Team F",
+                "Team G",
+                "Team H"
+            ],
+            "matches": [
+                {
+                    "team1": "Team E",
+                    "team2": "Team F",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team G",
+                    "team2": "Team H",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team E",
+                    "team2": "Team G",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team F",
+                    "team2": "Team H",
+                    "score1": "",
+                    "score2": ""
+                }
+            ]
+        },
+        "Court 3": {
+            "group": "Group C",
+            "teams": [
+                "Team I",
+                "Team J",
+                "Team K",
+                "Team L"
+            ],
+            "matches": [
+                {
+                    "team1": "Team I",
+                    "team2": "Team J",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team K",
+                    "team2": "Team L",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team I",
+                    "team2": "Team K",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team J",
+                    "team2": "Team L",
+                    "score1": "",
+                    "score2": ""
+                }
+            ]
+        },
+        "Court 4": {
+            "group": "Group D",
+            "teams": [
+                "Team M",
+                "Team N",
+                "Team O"
+            ],
+            "matches": [
+                {
+                    "team1": "Team M",
+                    "team2": "Team N",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team N",
+                    "team2": "Team O",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team M",
+                    "team2": "Team O",
+                    "score1": "",
+                    "score2": ""
+                }
+            ]
+        },
+        "Court 5": {
+            "group": "Group E",
+            "teams": [
+                "Team P",
+                "Team Q",
+                "Team R"
+            ],
+            "matches": [
+                {
+                    "team1": "Team P",
+                    "team2": "Team Q",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team Q",
+                    "team2": "Team R",
+                    "score1": "",
+                    "score2": ""
+                },
+                {
+                    "team1": "Team P",
+                    "team2": "Team R",
+                    "score1": "",
+                    "score2": ""
+                }
+            ]
+        }
+    },
+    "quarterfinals": [
+        {
+            "team1": "Team A",
+            "team2": "Team D",
+            "score1": "",
+            "score2": ""
+        },
+        {
+            "team1": "Team E",
+            "team2": "Team C",
+            "score1": "",
+            "score2": ""
+        },
+        {
+            "team1": "Team I",
+            "team2": "Team B",
+            "score1": "",
+            "score2": ""
+        },
+        {
+            "team1": "Team M",
+            "team2": "Team P",
+            "score1": "",
+            "score2": ""
+        }
+    ],
+    "semifinals": [
+        {
+            "team1": "",
+            "team2": "",
+            "score1": "",
+            "score2": ""
+        },
+        {
+            "team1": "",
+            "team2": "",
+            "score1": "",
+            "score2": ""
+        }
+    ],
+    "final": {
+        "team1": "",
+        "team2": "",
+        "score1": "",
+        "score2": ""
+    },
+    "settings": {
+        "teams_locked": false
+    }
+}

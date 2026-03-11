@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pickleball-tournament-489900",
+  "private_key_id": "4ea08521656d6c97f05abfb680a0defb30bc0158",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgnWptTBjjUAC9\nmjeFjQCN3eBsGLRGlF0c30j2SUWdGrV/EGzeOdfoKVzdXd8hKswiXFnNhJj33VoQ\nEbY5uC+BXQV6NScsh5gkAhjjQoshR0GDz86gV8/Ub17jgTL7j/cSjcWPdp9vcn6u\nfqOrAQ/b5Pd5WYv3FJxGVsJmZNvBXSCwzDcYqTdSf0DzV2LITFnSONiWCINweKi+\nKoIfClxjwyyNOG9pEj6W3nL6qLei743EllLhwIxbK3ONoNEDCWX/We4au+12Jpjs\nhATmhDyVsiTVkQm8cEjbbY0b1tetUBvY0tS6vboSXl2kQiur11YuY9QXQRnRCzOW\nnrMfk2spAgMBAAECggEAC5N87ba73npQK1o3oTkJ7q+ssq3PJH0h/ug69oFOcqXP\nqgJRjmzF2nZMuqm+4MGYZ+uXD2B8s/SwvpLAOwXC6sR9FhNJqQR22zWJfKu5omLj\n3m+2WUkq8gk64hPYTFhSevRb5lyq3hn29nWrLzKK5ZLpoUXqeBr0rn8nUMD5M8T4\nzFvtgmx+F9i7bgGSj75vho5X0GLqFXuGs+aJno6a9kaoNmVtI+DzQFfRVwSyaKGE\nbzk5SKKCtzSzbeK0FDIaCs7f2e9soeZRzq0Ap9thS+BaoA31+dT1ulBaK4F+tAIJ\nDulVGnD7qWpIynmuvLbfp3UbRupNQmoHACppEmo0eQKBgQDR7nwSIgMioMS/uk7c\nGeEj9/x0oTVKPGcK+UGvbh2cPC3+Ly5izgMZMM8SPhqPTQbgO2EFg3Drz6HczH7I\nHtNJcb490u/x2cmwwk4EvpCsKmT+sBnmw6QIScrx1iyNItuBgl7lx0dhxvzZ9xvy\ndQ2cOhk4jEjDuHrZDavTf0UO3QKBgQDD3Gx/IN5BVZNp57XfMfSO7QW2bpEF9zMS\nrSGKCObQoxB66vimZomLDnlL00n7R6+oswowIwDjCH5O/ibVRjCf7otP+4bL7Ugj\nYB7JSgMqIqRaIFbOb4Ukc+5LLS+vnkdYP0oemj/KOOcSat4hPMVRAr94jrSUmcEU\n2qfaFJkavQKBgQCFngZoQC/ArZUs9zdUTkCHdULBNQ5HFtT7HhUZxLuiAoe/nmYm\nyzsboH5b/R1Ikl1LAWBKcxO/c6NxdtNHKp+Owo+0p/rC87y0/adMy8InYsBvfsSt\npV5VTCqY7JnkpwgRkVo3ZDRh3pZ3YRnvo2MrSatd26RAtr2yQ0pXTk01HQKBgDKd\nO8x+ifEIVFgB8RYEqtZkmh1S5VdNUn15EDnDoyI3gYLCRg96YAD3dJELwQqWs+Y8\nnl1iLlB9WWbAdviWcuphks7QiT0ZzJKXvFz4K2kwGpjP0p72YsnQy7vRqYkQtg8w\nC89svR9dJRm1VEHymmsc8q4M8s2UDjl9Z/MLb6VhAoGAGh9V9P8L6BH+pZ9xLNVz\nw9HNee+Bbm3ILNruTOZ/QKcej2cZ3J+b3sq+Z2U7LXn7U6HgCeJ9M4shdoQw4X90\nXgqcvfPYm9ZI4ZkXsgBaK55rI/gcnoqZEXS9XEz7fZhm/BIWJOXFmYDjQnPRnEgG\niX0BnZNpZ4J7Bi+dPZjPCl8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pickleball-app@pickleball-tournament-489900.iam.gserviceaccount.com",
+  "client_id": "111334201998399963782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pickleball-app%40pickleball-tournament-489900.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
